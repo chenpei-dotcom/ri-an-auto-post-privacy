@@ -56,11 +56,11 @@
 
 電子郵件：chenpei@apps.ntpc.edu.tw
 
-##九、用戶資料刪除方式
+## 九、用戶資料刪除方式
 
 如果您希望刪除本應用程式可能處理的相關資料，請寄電子郵件至以下地址提出申請：
 
-電子郵件：chenpei@apps.ntpc.edu.tw
+**電子郵件：chenpei@apps.ntpc.edu.tw**
 
 請在郵件中註明您希望刪除資料的 Instagram 帳號，以及「用戶資料刪除申請」。請勿在郵件中提供密碼或驗證碼。
 
